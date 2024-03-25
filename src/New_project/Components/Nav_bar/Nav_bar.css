@@ -1,0 +1,116 @@
+.Nav_bar_holder{
+  background-color: darkblue;
+}
+
+.top_nav_bar_nb {
+  background-color: rgb(4, 4, 65);
+color: aliceblue;
+height: 30px;
+display: flex;
+justify-content: center;
+
+}
+
+.first_holder_nb{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  width: 45%;
+  gap: 23px;
+  font-size: 10px;
+}
+
+.secound_holder_nb{
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  width: 45%;
+  gap: 23px;
+  font-size: 10px;
+}
+
+.main_nav_holder{
+  height: 93px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 99%;
+}
+.logo_nav_nb{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+width: 25%;
+gap: 4px;
+cursor: pointer;
+transition: 1.1s;
+}
+.logo_nav_nb:hover{
+  opacity: 0.9;
+
+
+}
+
+.logo{
+  color: rgb(255, 0, 157);
+}
+.Name_nav_nb{
+  color: white;
+  font-weight: 800;
+}
+.search_holder_nb{
+  width: 55%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding-left: 3px;
+
+}
+.last_holder_nb{
+width: 25%;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+gap: 9px;
+}
+
+.search_holder_nb input{
+padding-top: 5px;
+padding-bottom: 5px;
+width: 45%;
+border-radius: 5px;
+padding-left: 9px;
+border-style: none;
+}
+.search_holder_nb input:active{
+  border-color: red;
+  border-style: none;
+position: relative;
+}
+.last_holder_nb button{
+  padding: 10px;
+  border-style: none;
+  border-radius: 14px;
+  display: flex;
+  background-color: rgb(255, 0, 157) ;
+color: white;
+  gap: 5px;
+  transition: 1.1s;
+}
+
+.last_holder_nb button:hover{
+opacity: 0.8;
+cursor: pointer;
+
+}
+
+.search_icon{
+  color: white;
+  background-color: rgb(255, 0, 157) ;
+  padding: 4px;
+  position: absolute;
+  right: 39%;
+  cursor: pointer;
+  border-radius: 7px;
+}
