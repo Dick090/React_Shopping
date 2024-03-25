@@ -7,7 +7,7 @@ function Product() {
       <div className="left">
         <div className="img">
           <img
-            src="../public/images/1560461304-sketchers-gorun-maxtrail-1461-1532626092__1_-removebg-preview.png"
+            src="images/1560461304-sketchers-gorun-maxtrail-1461-1532626092__1_-removebg-preview.png"
             alt=""
             className="container"
           />
@@ -16,13 +16,13 @@ function Product() {
 
 
           <div className="shoe_1">
-            <img src="../public/images/1560461304-sketchers-gorun-maxtrail-1461-1532626092__1_-removebg-preview.png" alt="" />
+            <img src="images/1560461304-sketchers-gorun-maxtrail-1461-1532626092__1_-removebg-preview.png" alt="" />
           </div>
           <div className="shoe_2">
-            <img src="../public/images/1560461304-sketchers-gorun-maxtrail-1461-1532626092__1_-removebg-preview.png" alt="" />
+            <img src="images/1560461304-sketchers-gorun-maxtrail-1461-1532626092__1_-removebg-preview.png" alt="" />
           </div>
           <div className="shoe_3">
-            <img src="../public/images/1560461304-sketchers-gorun-maxtrail-1461-1532626092__1_-removebg-preview.png" alt="" />
+            <img src="images/1560461304-sketchers-gorun-maxtrail-1461-1532626092__1_-removebg-preview.png" alt="" />
           </div>
 
         </div>
