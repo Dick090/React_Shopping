@@ -7,7 +7,7 @@ function Product() {
       <div className="left">
         <div className="img">
           <img
-            src="images/1560461304-sketchers-gorun-maxtrail-1461-1532626092__1_-removebg-preview.png"
+            src="https://th.bing.com/th/id/OIP.1ThZ2LiW1Ubsat0ux-EkzwHaE8?rs=1&pid=ImgDetMain"
             alt=""
             className="container"
           />
@@ -16,7 +16,7 @@ function Product() {
 
 
           <div className="shoe_1">
-            <img src="images/1560461304-sketchers-gorun-maxtrail-1461-1532626092__1_-removebg-preview.png" alt="" />
+            <img src="https://th.bing.com/th/id/OIP.1ThZ2LiW1Ubsat0ux-EkzwHaE8?rs=1&pid=ImgDetMain" alt="" />
           </div>
           <div className="shoe_2">
             <img src="images/1560461304-sketchers-gorun-maxtrail-1461-1532626092__1_-removebg-preview.png" alt="" />
